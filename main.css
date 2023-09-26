@@ -1,0 +1,16 @@
+@media (max-width:600px){
+  .row {
+  display: grid;
+  justify-items: center;
+  }
+}
+
+@media (min-width: 992px){
+  .col-md-2 {
+    width: 74.666667%;
+}}
+
+.row {
+  column-count: 3;
+}
+
